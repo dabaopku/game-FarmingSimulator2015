@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<ingameMissions>
+    <mission id="1" state="2" isStarted="false" timeOutLimit="0" neededTime="350706.39413452" startPointIndex="5" endPointIndex="4" transportObjectTrans="-819.99993896484 110.09999847412 -94.500007629395" transportObjectRot="1.5690457075834e-06 -3.0378578230739e-06 2.1277814994392e-06"/>
+    <mission id="15" state="1" isStarted="false" timeOutLimit="314605.13988113" neededTime="0" requestedFillLevel="18000" fillLevelRemaining="18000"/>
+</ingameMissions>
+
