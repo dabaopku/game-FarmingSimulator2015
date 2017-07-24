@@ -4,4 +4,5 @@ gameSettings.xml
 game.xml
 VERSION
 inputBinding.xml
-
+*backup*
+*.cache

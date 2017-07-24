@@ -34,13 +34,13 @@
     </fieldOwnage>
 
     <greatDemands>
-      <greatDemand stationName="StationRestaurant" fillTypeName="wheat" demandMultiplier="1.8" demandStartDay="4" demandStartHour="13" demandDuration="12" isRunning="false" isValid="true" />
+      <greatDemand stationName="StationRestaurant" fillTypeName="wheat" demandMultiplier="1.7999999523163" demandStartDay="4" demandStartHour="13" demandDuration="12" isRunning="false" isValid="true" />
       <greatDemand stationName="StationWarehouse" fillTypeName="rape" demandMultiplier="2" demandStartDay="3" demandStartHour="10" demandDuration="12" isRunning="false" isValid="true" />
       <greatDemand stationName="StationBiomassHeatingPlant" fillTypeName="woodChips" demandMultiplier="1.5" demandStartDay="3" demandStartHour="18" demandDuration="12" isRunning="false" isValid="true" />
     </greatDemands>
 
     <financeStatsHistory>
-        <financeStats day="0" newVehiclesCost="0" newAnimalsCost="0" constructionCost="0" vehicleRunningCost="-205.29513888889" propertyMaintenance="0" wagePayment="-821.38934606056" harvestIncome="21809.98" missionIncome="0" other="-359.4" loanInterest="0" />
+        <financeStats day="0" newVehiclesCost="-166900" newAnimalsCost="0" constructionCost="0" vehicleRunningCost="-295.62501186795" propertyMaintenance="0" wagePayment="-1333.0269194323" harvestIncome="29395.72046875" missionIncome="0" other="-359.39999389648" loanInterest="0" />
     </financeStatsHistory>
 
 </economy>
