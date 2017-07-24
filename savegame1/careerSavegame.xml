@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<careerSavegame revision="2" valid="true" densityMapRevision="1" resetVehicles="false" invertYAxis="false" masterVolume="1.000000" showHelpIcons="true" showIngameMap="true" showMapIcons="true" helpText="true" mapId="Map02" difficulty="1" autoBackupIndex="5" fuelUsage="7.491773" sprayUsage="0.000000" seedUsage="429.394928" traveledDistance="9.768869" hectaresSeeded="0.613422" seedingDuration="10.915087" hectaresThreshed="1.652047" threshingDuration="32.014969" hectaresWorked="1.371525" workingDuration="19.765030" baleCount="0" revenue="0.000000" expenses="359.399963" playTime="34.927570" money="22506" dayTime="574.637878" currentDay="1" timeSinceLastRain="10000174.000000" longSnowBreakCounter="3" saveDate="24/07/2017" loan="200000" missionFrequency="2" isPlantWitheringEnabled="true" plantGrowthRate="3" loanAnnualInterestRate="50" timeScale="5.000000" completedTransportMissions="0" completedDemandMissions="0" completedMowingMissions="0" eastState1="0" eastState2="0" foundGoldCoinCount="0" foundGoldCoins="0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" foundHelpIcons="00000000000000000000" showIconsOnPDA="true">
+<careerSavegame revision="2" valid="true" densityMapRevision="1" resetVehicles="false" invertYAxis="false" masterVolume="1.000000" showHelpIcons="true" showIngameMap="true" showMapIcons="true" helpText="true" mapId="Map02" difficulty="1" autoBackupIndex="7" fuelUsage="12.727786" sprayUsage="0.000000" seedUsage="887.944214" traveledDistance="14.550511" hectaresSeeded="1.339388" seedingDuration="23.815439" hectaresThreshed="2.437429" threshingDuration="47.017296" hectaresWorked="2.167503" workingDuration="31.084784" baleCount="0" revenue="0.000000" expenses="914.269348" playTime="53.148178" money="2201" dayTime="665.740906" currentDay="1" timeSinceLastRain="10000265.000000" longSnowBreakCounter="3" saveDate="24/07/2017" loan="175000" missionFrequency="2" isPlantWitheringEnabled="true" plantGrowthRate="3" loanAnnualInterestRate="50" timeScale="5.000000" completedTransportMissions="1" completedDemandMissions="0" completedMowingMissions="0" eastState1="0" eastState2="0" foundGoldCoinCount="0" foundGoldCoins="0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000" foundHelpIcons="00000000000000000000" showIconsOnPDA="true">
     <farmSiloAmounts count="12">
         <farmSiloAmount fillType="potato" amount="8516.000000" />
         <farmSiloAmount fillType="barley" amount="7786.000000" />
-        <farmSiloAmount fillType="wheat" amount="27727.175781" />
+        <farmSiloAmount fillType="wheat" amount="36227.175781" />
         <farmSiloAmount fillType="rape" amount="16892.000000" />
         <farmSiloAmount fillType="liquidManure" amount="0.000000" />
         <farmSiloAmount fillType="maize" amount="16526.000000" />
@@ -15,33 +15,33 @@
         <farmSiloAmount fillType="dryGrass" amount="0.000000" />
     </farmSiloAmounts>
     <fillTypePrices count="27">
-        <fillTypePrice fillType="barley_windrow" price="0.039000" previousHourPrice="0.040000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="woodChips" price="0.520000" previousHourPrice="0.524000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="rape" price="0.558000" previousHourPrice="0.558000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="forage" price="0.800000" previousHourPrice="0.799000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="milk" price="0.398000" previousHourPrice="0.403000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="barley_windrow" price="0.040000" previousHourPrice="0.040000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="woodChips" price="0.525000" previousHourPrice="0.528000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="rape" price="0.567000" previousHourPrice="0.565000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="forage" price="0.799000" previousHourPrice="0.804000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="milk" price="0.400000" previousHourPrice="0.397000" totalAmount="500000.000000" />
         <fillTypePrice fillType="wheat_windrow" price="0.039000" previousHourPrice="0.040000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="maize" price="0.259000" previousHourPrice="0.261000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="grass" price="0.169000" previousHourPrice="0.170000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="maize" price="0.259000" previousHourPrice="0.259000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="grass" price="0.169000" previousHourPrice="0.171000" totalAmount="500000.000000" />
         <fillTypePrice fillType="fuel" price="0.000000" previousHourPrice="0.000000" totalAmount="500000.000000" />
         <fillTypePrice fillType="water" price="0.000000" previousHourPrice="0.000000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="liquidManure" price="0.010000" previousHourPrice="0.010000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="potato" price="0.201000" previousHourPrice="0.200000" totalAmount="508500.000000" />
-        <fillTypePrice fillType="barley" price="0.314000" previousHourPrice="0.323000" totalAmount="508415.000000" />
-        <fillTypePrice fillType="wheat" price="0.287000" previousHourPrice="0.283000" totalAmount="508330.843750" />
-        <fillTypePrice fillType="seeds" price="0.595000" previousHourPrice="0.599000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="grass_windrow" price="0.050000" previousHourPrice="0.049000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="manure" price="0.010000" previousHourPrice="0.010000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="dryGrass_windrow" price="0.055000" previousHourPrice="0.054000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="fertilizer" price="0.300000" previousHourPrice="0.298000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="treeSaplings" price="0.199000" previousHourPrice="0.199000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="egg" price="5.723000" previousHourPrice="5.751000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="forage_mixing" price="0.496000" previousHourPrice="0.500000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="silage" price="0.804000" previousHourPrice="0.798000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="wool" price="1.194000" previousHourPrice="1.207000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="dryGrass" price="0.191000" previousHourPrice="0.191000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="chaff" price="0.209000" previousHourPrice="0.208000" totalAmount="500000.000000" />
-        <fillTypePrice fillType="sugarBeet" price="0.222000" previousHourPrice="0.218000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="liquidManure" price="0.010000" previousHourPrice="0.009000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="potato" price="0.196000" previousHourPrice="0.196000" totalAmount="508330.843750" />
+        <fillTypePrice fillType="barley" price="0.315000" previousHourPrice="0.316000" totalAmount="508247.531250" />
+        <fillTypePrice fillType="wheat" price="0.286000" previousHourPrice="0.289000" totalAmount="508165.062500" />
+        <fillTypePrice fillType="seeds" price="0.601000" previousHourPrice="0.595000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="grass_windrow" price="0.049000" previousHourPrice="0.050000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="manure" price="0.010000" previousHourPrice="0.009000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="dryGrass_windrow" price="0.054000" previousHourPrice="0.055000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="fertilizer" price="0.301000" previousHourPrice="0.301000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="treeSaplings" price="0.198000" previousHourPrice="0.201000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="egg" price="5.748000" previousHourPrice="5.720000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="forage_mixing" price="0.497000" previousHourPrice="0.504000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="silage" price="0.800000" previousHourPrice="0.804000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="wool" price="1.206000" previousHourPrice="1.188000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="dryGrass" price="0.188000" previousHourPrice="0.190000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="chaff" price="0.208000" previousHourPrice="0.211000" totalAmount="500000.000000" />
+        <fillTypePrice fillType="sugarBeet" price="0.221000" previousHourPrice="0.220000" totalAmount="500000.000000" />
     </fillTypePrices>
     <rains numRains="14">
         <rain isValid="true" rainTypeId="fog" duration="145.720612" startDay="3" startDayTime="339.350159" />
