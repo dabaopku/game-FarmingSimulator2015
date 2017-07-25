@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <careerVehicles>
-    <vehicle id="1" filename="data/vehicles/steerable/deutz/deutzAgroStar661.xml" isAbsolute="true" fuelFillLevel="289.54514751797" cruiseControl="43" operatingTime="2598.516439415" attacherJointComboDir="-1" dirtAmount="1">
-       <component1 position="232.4172668457 108.67224884033 383.83856201172" rotation="-1.3887157440186 -1.4807876348495 1.3925845623016" />
+    <vehicle id="1" filename="data/vehicles/steerable/deutz/deutzAgroStar661.xml" isAbsolute="true" fuelFillLevel="289.30035967885" cruiseControl="43" operatingTime="3280.7082505722" attacherJointComboDir="-1" dirtAmount="1">
+       <component1 position="217.46128845215 104.66793060303 273.45318603516" rotation="2.6306002140045 -1.4966745376587 -2.5743556022644" />
     </vehicle>
-    <vehicle id="2" filename="data/vehicles/steerable/deutz/deutzAgroStar661.xml" isAbsolute="true" fuelFillLevel="288.44153913627" cruiseControl="43" operatingTime="2042.325421999" attacherJointComboDir="-1" dirtAmount="1">
-       <component1 position="28.39518737793 120.81693267822 344.54147338867" rotation="-1.441999912262 1.5224530696869 -1.4603153467178" />
+    <vehicle id="2" filename="data/vehicles/steerable/deutz/deutzAgroStar661.xml" isAbsolute="true" fuelFillLevel="288.44043597193" cruiseControl="43" operatingTime="2928.5955316448" attacherJointComboDir="-1" dirtAmount="1">
+       <component1 position="129.65412902832 112.26871490479 375.14071655273" rotation="-1.4623675346375 -1.5384284257889 1.4088127613068" />
     </vehicle>
-    <vehicle id="3" filename="data/vehicles/steerable/huerlimann/huerlimannH488.xml" isAbsolute="true" fuelFillLevel="99.553245737941" cruiseControl="43" operatingTime="189.4327219162" attacherJointComboDir="-1" dirtAmount="0.5415299491326">
-       <component1 position="286.64590454102 100.02021026611 110.73456573486" rotation="-0.00506995851174 -0.10429304093122 6.8170746089891e-05" />
+    <vehicle id="3" filename="data/vehicles/steerable/huerlimann/huerlimannH488.xml" isAbsolute="true" fuelFillLevel="99.552311656913" cruiseControl="43" operatingTime="197.83769641495" attacherJointComboDir="-1" dirtAmount="0.54293084403006">
+       <component1 position="286.64590454102 100.02021026611 110.73456573486" rotation="-0.0050686998292804 -0.10429302603006 6.7710905568674e-05" />
     </vehicle>
-    <vehicle id="4" filename="data/vehicles/steerable/sampoRosenlew/sampoRosenlewC6.xml" isAbsolute="true" foldAnimTime="0" fuelFillLevel="379.19152307194" cruiseControl="26" operatingTime="3164.430253273" fillLevel="1845.1847553253" fillType="wheat" pipeState="1" isStrawEnabled="true" workedHectars="2.4374286681414" dirtAmount="0.51432200372366">
-       <component1 position="220.96743774414 110.18008422852 398.00991821289" rotation="-1.5309488773346 -1.4620802402496 1.5203392505646" />
+    <vehicle id="4" filename="data/vehicles/steerable/sampoRosenlew/sampoRosenlewC6.xml" isAbsolute="true" foldAnimTime="0" fuelFillLevel="377.81327030209" cruiseControl="26" operatingTime="3606.7526526394" fillLevel="0" fillType="unknown" pipeState="1" isStrawEnabled="true" workedHectars="2.7117389291525" dirtAmount="0.53410576569436">
+       <component1 position="207.46859741211 103.93030548096 273.51077270508" rotation="-2.4578742980957 -1.5280050039291 2.517019033432" />
     </vehicle>
-    <vehicle id="5" filename="data/vehicles/steerable/buehrer/buehrer6135A.xml" isAbsolute="true" fuelFillLevel="113.77607769312" cruiseControl="43" operatingTime="1717.9612747536" attacherJointComboDir="-1" dirtAmount="1">
-       <component1 position="140.14179992676 100.1044921875 110.41639709473" rotation="-3.1064398288727 -0.013415606692433 3.1415011882782" />
+    <vehicle id="5" filename="data/vehicles/steerable/buehrer/buehrer6135A.xml" isAbsolute="true" fuelFillLevel="111.24761424746" cruiseControl="43" operatingTime="2326.4658793259" attacherJointComboDir="-1" dirtAmount="1">
+       <component1 position="399.94036865234 113.61168670654 256.69387817383" rotation="-0.12778696417809 0.9363157749176 0.0082110241055489" />
     </vehicle>
-    <vehicle id="6" filename="data/vehicles/steerable/huerlimann/huerlimannH488.xml" isAbsolute="true" fuelFillLevel="99.99786020172" cruiseControl="43" operatingTime="19.259775243759" attacherJointComboDir="-1" dirtAmount="0.50320742325624">
-       <component1 position="543.09991455078 100.01625823975 7.997504234314" rotation="3.1365308761597 8.1510300731225e-08 3.141524553299" />
+    <vehicle id="6" filename="data/vehicles/steerable/huerlimann/huerlimannH488.xml" isAbsolute="true" fuelFillLevel="99.997349819418" cruiseControl="43" operatingTime="23.885328081131" attacherJointComboDir="-1" dirtAmount="0.50397152820841">
+       <component1 position="543.09991455078 100.01625823975 7.997504234314" rotation="3.1365306377411 8.1887208125409e-08 3.1415250301361" />
     </vehicle>
     <vehicle id="7" filename="data/vehicles/tools/koeckerling/koeckerlingTrio300M.xml" isAbsolute="true" foldAnimTime="0" dirtAmount="1">
-       <component1 position="236.63766479492 108.41608428955 383.79379272461" rotation="-1.3826833963394 -1.4807220697403 1.3926067352295" />
+       <component1 position="221.6199798584 105.42079925537 273.74374389648" rotation="2.752917766571 -1.4966728687286 -2.5745012760162" />
     </vehicle>
-    <vehicle id="8" filename="data/vehicles/tools/poettinger/poettingerVitasem302A.xml" isAbsolute="true" fillLevel="533.83095264435" fillType="seeds" selectedSeedFruitType="maize" foldAnimTime="0" dirtAmount="1">
-       <component1 position="24.985622406006 121.12573242188 344.50848388672" rotation="-1.4556603431702 1.522434592247 -1.4605281352997" />
+    <vehicle id="8" filename="data/vehicles/tools/poettinger/poettingerVitasem302A.xml" isAbsolute="true" fillLevel="263.8143889904" fillType="seeds" selectedSeedFruitType="maize" foldAnimTime="0" dirtAmount="1">
+       <component1 position="133.08529663086 111.90219116211 375.13458251953" rotation="-1.482168674469 -1.5382961034775 1.4106081724167" />
     </vehicle>
-    <vehicle id="9" filename="data/vehicles/trailers/brantner/brantnerE8041.xml" isAbsolute="true" color="0.053 0.087 0.024 1" fillLevel="0" fillType="unknown" dirtAmount="0.81944311587623">
-       <component1 position="140.21617126465 100.14144134521 115.43572235107" rotation="3.133939743042 -0.013423555530608 -3.1415357589722" />
+    <vehicle id="9" filename="data/vehicles/trailers/brantner/brantnerE8041.xml" isAbsolute="true" color="0.053 0.087 0.024 1" fillLevel="0" fillType="unknown" dirtAmount="0.89864546569622">
+       <component1 position="395.90829467773 112.90640258789 253.73153686523" rotation="-0.13359433412552 0.93748563528061 0.011936628259718" />
     </vehicle>
-    <vehicle id="10" filename="data/vehicles/cutters/sampoRosenlew/sampoRosenlewC6.xml" isAbsolute="true" foldAnimTime="0" dirtAmount="0.61379495042088">
-       <component1 position="217.0750579834 110.42630767822 398.01641845703" rotation="-1.391828417778 -1.4620852470398 1.520400762558" />
+    <vehicle id="10" filename="data/vehicles/cutters/sampoRosenlew/sampoRosenlewC6.xml" isAbsolute="true" foldAnimTime="0" dirtAmount="0.63349126187521">
+       <component1 position="203.08164978027 104.85552215576 273.34713745117" rotation="-2.8348686695099 -1.5279966592789 2.5171630382538" />
        <movingTool1 rotation="0"/>
        <movingTool2 rotation="-0.05235987755983"/>
     </vehicle>
     <vehicle id="11" filename="data/vehicles/tools/suer/suerSB700.xml" isAbsolute="true" dirtAmount="1">
-       <component1 position="229.36909484863 109.31379699707 383.83261108398" rotation="-1.4816675186157 -1.4807822704315 1.3924751281738" />
+       <component1 position="214.38890075684 105.15252685547 273.2825012207" rotation="2.5370993614197 -1.4966979026794 -2.5739386081696" />
     </vehicle>
     <vehicle id="12" filename="data/vehicles/tools/suer/suerSB700.xml" isAbsolute="true" dirtAmount="1">
-       <component1 position="31.452365875244 121.41414642334 344.52688598633" rotation="-1.534588932991 1.522444486618 -1.4598180055618" />
+       <component1 position="126.64779663086 113.08419036865 375.13220214844" rotation="-1.5624333620071 -1.5383400917053 1.4157973527908" />
     </vehicle>
-    <vehicle id="13" filename="data/vehicles/steerable/liebherr/liebherrL538.xml" isAbsolute="true" fuelFillLevel="201.76678671364" cruiseControl="43" operatingTime="567.02396542358" dirtAmount="0.05749436684785">
-       <component1 position="-60.920974731445 115.00240325928 713.86981201172" rotation="3.1403996944427 1.0638276338577 3.141592502594" />
-       <component2 position="-60.921005249023 115.00247955322 713.86975097656" rotation="3.1404211521149 1.0638391971588 3.1415829658508" />
-       <movingTool1 rotation="-0.37923478981938"/>
-       <movingTool2 rotation="0.44232404644966"/>
-       <movingTool3 rotation="-0.37923478981938"/>
-       <movingTool4 rotation="0.44232404644966"/>
+    <vehicle id="13" filename="data/vehicles/steerable/liebherr/liebherrL538.xml" isAbsolute="true" fuelFillLevel="201.76535073613" cruiseControl="43" operatingTime="573.25230752754" dirtAmount="0.058076372821993">
+       <component1 position="-60.920989990234 115.00242614746 713.86975097656" rotation="3.1403532028198 1.0638015270233 3.1415882110596" />
+       <component2 position="-60.920989990234 115.00240325928 713.86975097656" rotation="3.1403529644012 1.0637996196747 3.141587972641" />
+       <movingTool1 rotation="-0.379234790802"/>
+       <movingTool2 rotation="0.44232401251793"/>
+       <movingTool3 rotation="-0.379234790802"/>
+       <movingTool4 rotation="0.44232401251793"/>
     </vehicle>
-    <vehicle id="14" filename="data/vehicles/wheelLoaders/lizard/wheelLoaderFork.xml" isAbsolute="true" dirtAmount="0.055591159549643">
-       <component1 position="-57.183460235596 116.59812164307 711.79400634766" rotation="2.6025478839874 1.0638419389725 3.1415817737579" />
+    <vehicle id="14" filename="data/vehicles/wheelLoaders/lizard/wheelLoaderFork.xml" isAbsolute="true" dirtAmount="0.056173159261412">
+       <component1 position="-57.183620452881 116.59838867188 711.7939453125" rotation="2.6024358272552 1.063801407814 3.1415874958038" />
     </vehicle>
-    <attachment id0="1" id1="7" inputJointDescIndex="1" jointIndex="1" moveDown="true"/>
+    <attachment id0="1" id1="7" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
     <attachment id0="1" id1="11" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
     <attachment id0="2" id1="8" inputJointDescIndex="1" jointIndex="1" moveDown="true"/>
     <attachment id0="2" id1="12" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
-    <attachment id0="4" id1="10" inputJointDescIndex="1" jointIndex="1" moveDown="true"/>
+    <attachment id0="4" id1="10" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
     <attachment id0="5" id1="9" inputJointDescIndex="1" jointIndex="3" moveDown="false"/>
     <attachment id0="13" id1="14" inputJointDescIndex="1" jointIndex="2" moveDown="false"/>
     <onCreateLoadedObject id="1"  numAnimals0="0" numAnimals1="0">
