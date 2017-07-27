@@ -40,7 +40,7 @@
     </greatDemands>
 
     <financeStatsHistory>
-        <financeStats day="0" newVehiclesCost="-166900" newAnimalsCost="0" constructionCost="0" vehicleRunningCost="-580.9375" propertyMaintenance="0" wagePayment="-2820.6907762551" harvestIncome="71660.168737725" missionIncome="6300" other="-914.26934814453" loanInterest="0" />
+        <financeStats day="0" newVehiclesCost="-166900" newAnimalsCost="0" constructionCost="0" vehicleRunningCost="-779.79172770182" propertyMaintenance="0" wagePayment="-3095.8992307696" harvestIncome="99517.391432399" missionIncome="6300" other="-953.76031007385" loanInterest="0" />
     </financeStatsHistory>
 
 </economy>

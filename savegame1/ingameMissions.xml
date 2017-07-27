@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <ingameMissions>
-    <mission id="15" state="1" isStarted="false" timeOutLimit="400390.93906403" neededTime="0" requestedFillLevel="36000" fillLevelRemaining="36000"/>
-    <mission id="16" state="1" isStarted="false" timeOutLimit="100390.59225655" neededTime="0" requestedFillLevel="19000" fillLevelRemaining="19000"/>
+    <mission id="14" state="1" isStarted="false" timeOutLimit="233316.9201498" neededTime="0" requestedFillLevel="94000" fillLevelRemaining="94000"/>
 </ingameMissions>
 
